@@ -1,7 +1,7 @@
 # xat chat embed
 * This provides you a way to embed your chat group to WordPress by simply using small tags.
 
-## Instalation
+## Instalation:
 1. Download this plugin: https://github.com/xLaming/wp_xatembed/releases/download/1.1/plugin.zip
 2. Install on your WordPress plugin manager
 
@@ -13,3 +13,6 @@
   * **Type** you can use FLASH or HTML5
   * **Height** chat height, obvious
   * **Width** chat width, obvious
+
+### Website demo:
+* https://pt.xatblog.net/demo/
